@@ -1,4 +1,4 @@
-# Xavier custom option
+# Xavier custom setting option
 - Korean keyboard setting
 - Web browser(Chrome)
 - Terminator

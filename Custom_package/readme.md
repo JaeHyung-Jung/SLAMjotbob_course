@@ -11,8 +11,8 @@
             subscirbe, publisher
 
 ## Required :
-    - ROS
-    - Mavros
-    - Gazebo    
+- ROS
+- Mavros
+- Gazebo    
     
 

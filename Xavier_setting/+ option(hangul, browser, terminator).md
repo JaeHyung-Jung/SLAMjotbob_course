@@ -3,6 +3,8 @@
 - Web browser(Chrome)
 - Terminator
 
+---
+
 > Korean keyboard
 + In xavier, IBUS X Fcitx O
 

@@ -7,7 +7,7 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
     - 주 관 : 신성균
     - Assist : 이민재, 조우성
 ```
-## Drone schedules
+## Course schedules
 
 ### * Xavier Setting (~7.11)
 - [x] 1) SDK Manager를 통해 Xavier 설치
@@ -36,6 +36,7 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
     - Joint Link + Joint state publisher
     - map + baseLink ?? 이거뭐임
     - Lidar 처음부터 구성
+    
 - [ ] (8.N~10.1) 
     - ROS pkg custom create(.cpp)
     - SLAM(Lom, Lego, Vision, Lidar, ...) 논문 및 코드 분석

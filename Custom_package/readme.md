@@ -10,4 +10,8 @@
             
             subscirbe, publisher
 
+## Required :
+    - ROS, Mavros
+    - Gazebo    
+    
 

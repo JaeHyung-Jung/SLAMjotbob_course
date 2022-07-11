@@ -5,7 +5,7 @@
 
 ---
 
-> Korean keyboard
+## Korean keyboard
 + In xavier, IBUS X Fcitx O
 
 1. Install fcitx
@@ -23,7 +23,7 @@ In top tray bar, Configure Current Input Method > Add input method - Hangul
 Global Config > Trigger Input Method - Ralt
 
 ---
-> Terminator
+## Terminator
 ```
 $ apt install terminator
 ```
@@ -32,7 +32,7 @@ $ apt install terminator
 - ctrl + shift + w = terminal close
 
 ---
-> Chrome web browser
+## Chrome web browser
 ```
 $ apt install chromium-browser
 ```

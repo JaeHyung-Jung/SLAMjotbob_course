@@ -1,5 +1,4 @@
 # SLAMjotbob_course
----
 
 ### Repository 설명
 ```
@@ -8,7 +7,6 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
     - 주 관 : 신성균
     - Assist : 이민재, 조우성
 ```
----
 ## Drone schedules
 
 ### * Xavier Setting (~7.11)

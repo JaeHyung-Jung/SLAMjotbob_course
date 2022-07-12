@@ -4,7 +4,8 @@
 ---
 
 ### Simulation Sequence
-
+After gazebo, ardupilot, ardupilot_gazebo, mavros installed, start simulating.
+    
 1) Run gazebo
 ```
 ~$ gazebo --verbose ~/ardupilot_gazebo/worlds/iris_arducopter_runway.world

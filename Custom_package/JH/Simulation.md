@@ -31,7 +31,15 @@ $ roslaunch mavros apm.launch
 ##### Troubleshooting
 edit apm.launch which is located in ~/catkin_ws/src/mavros/mavros/launch/apm.launch
 ```
-"<arg name="fcu_url" default="udp://:11311@" />"
+"<arg name="fcu_url" default="udp://127.0.0.1:14551@14555" /"
 ```
+reference : [Ardupilot_docs](https://ardupilot.org/dev/docs/ros-sitl.html)
+    
+3-1) After run apm.launch, check the connection with command below
+```
+$ rostopic echo /mavros/state
+=> connected : True
+```
+    
   
 4)

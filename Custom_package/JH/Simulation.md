@@ -6,6 +6,7 @@ Reference : [Ardupilot, Gazebo Install](https://github.com/Intelligent-Quads/iq_
     
 ### Simulation Sequence
 After gazebo, ardupilot, ardupilot_gazebo, mavros installed, start simulating.
+Install instruction is [here](https://github.com/JaeHyung-Jung/SLAMjotbob_course/blob/main/Xavier_setting/%2B%20Simulation%20on%20desktop.md)
     
 1) Run gazebo
 ```

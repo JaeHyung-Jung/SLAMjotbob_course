@@ -45,8 +45,8 @@ $ rostopic echo /mavros/state
 After 1) + 2) + 3) run, you will se like this
 ![image](https://user-images.githubusercontent.com/79160507/178422143-0de792f0-54cb-4856-98d2-37389c19be4b.png)
 
-    
-4) Make .cpp ROS file to send messages for manipulating
+---
+#### Make custom node.cpp to send ROS_messages for manipulating
 reference : 
     - https://docs.px4.io/main/ko/ros/mavros_offboard.html
     

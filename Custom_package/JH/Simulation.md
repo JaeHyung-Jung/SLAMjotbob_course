@@ -60,7 +60,7 @@ In ~/catkin_ws/src/custom_pkg/src
 ```
 gedit your_node.cpp
 ```
-reference : http://wiki.ros.org/mavros_msgs
+reference : http://wiki.ros.org/mavros_msgs <br>
 위의 mavros_msg를 참고하여 사용할 msg를 node에 추가
     
 3) Edit package.xml, CMakelists.txt to make dependencies for building

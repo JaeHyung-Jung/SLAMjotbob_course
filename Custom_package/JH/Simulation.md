@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/79160507/178412154-a51bd9bc-619f-41e0-a44e-d2bc7f991e0c.png)
 
 ---
-
+Reference : [Ardupilot, Gazebo Install](https://github.com/Intelligent-Quads/iq_tutorials/blob/master/docs/installing_gazebo_arduplugin.md)
+    
 ### Simulation Sequence
 After gazebo, ardupilot, ardupilot_gazebo, mavros installed, start simulating.
     

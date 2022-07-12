@@ -41,6 +41,7 @@ $ rostopic echo /mavros/state
 => connected : True
 ```
     
+    
 After 1) + 2) + 3) run, you will se like this
 ![image](https://user-images.githubusercontent.com/79160507/178422143-0de792f0-54cb-4856-98d2-37389c19be4b.png)
 

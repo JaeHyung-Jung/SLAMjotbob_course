@@ -42,4 +42,7 @@ $ rostopic echo /mavros/state
 ```
     
   
-4)
+4) Make .cpp ROS file to send messages for manipulating
+reference : 
+    - https://docs.px4.io/main/ko/ros/mavros_offboard.html
+

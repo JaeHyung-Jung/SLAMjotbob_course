@@ -60,6 +60,8 @@ In ~/catkin_ws/src/custom_pkg/src
 ```
 gedit your_node.cpp
 ```
+reference : http://wiki.ros.org/mavros_msgs
+
     
 3) Edit package.xml, CMakelists.txt to make dependencies for building
 ```

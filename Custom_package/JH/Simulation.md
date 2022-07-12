@@ -13,7 +13,7 @@ After gazebo, ardupilot, ardupilot_gazebo, mavros installed, start simulating.
 
 2) Run ardupilot
 ```
-~/ardupilot/Arducopter $ ../Tools/autotest/sim_vehicle.py -f gazebo-iris --console --map
+$ cd ~/ardupilot/ArduCopter/ && sim_vehicle.py -v ArduCopter -f gazebo-iris --console
 ```
 3) Run mavros 
 ```

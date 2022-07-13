@@ -13,8 +13,8 @@ $ cd ~/catkin_ws/src/your_pkg/src
 $ sudo gedit node_name.cpp
 ```
 
-2-1) Mavros service call
-reference : https://masoudir.github.io/mavros_tutorial/Chapter1_ArduRover_with_CLI/Step2_How_to_Arm_and_Disarm/
+  2-1) Mavros service call
+  reference : https://masoudir.github.io/mavros_tutorial/Chapter1_ArduRover_with_CLI/Step2_How_to_Arm_and_Disarm/
 
 
 3) Edit CMakeLists.txt

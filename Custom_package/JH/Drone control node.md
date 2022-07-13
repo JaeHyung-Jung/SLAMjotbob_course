@@ -77,7 +77,7 @@ At the end of the CMakeLists.txt, you should add dependencies
 ```
 add_executable(node_name src/node_name.cpp)
 target_link_libraries(node_name ${catkin_LIBRARIES})
-add_dependencies(node_name package_name_${catkin_EXPORTED_TARGETS})
+add_dependencies(node_name package_name_${catkin_EXPORTED_TARGETS}) // 필요할 때만 사용
 ```
 
 5) catkin build 

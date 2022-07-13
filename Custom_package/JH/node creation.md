@@ -61,4 +61,4 @@ $ roslaunch package_name node_name
 #### 구현해야 할 것들
 - Control : arming, takeoff(height), setposition(move), Circular move, RTL(come home)
 - 키입력 받는 부분 함수로 작성
-- 
+- roslaunch로 작동되게 수정 (지금은 rosrun)

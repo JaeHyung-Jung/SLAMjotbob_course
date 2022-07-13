@@ -12,8 +12,8 @@
 
 ## Required :
 - ROS
-- Mavros(Mavlink)
+- Mavros(+Mavlink)
 - Gazebo    
-- Ardupilot(Ardupilot_gazebo plugin)
+- Ardupilot(+Ardupilot_gazebo plugin)
     
 

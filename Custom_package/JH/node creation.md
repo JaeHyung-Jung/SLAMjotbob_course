@@ -56,3 +56,9 @@ If you want to use roslaunch, you should make directory "launch" and edit "launc
 ```
 $ roslaunch package_name node_name
 ```
+
+---
+#### 구현해야 할 것들
+- Control : arming, takeoff(height), setposition(move), Circular move, RTL(come home)
+- 키입력 받는 부분 함수로 작성
+- 

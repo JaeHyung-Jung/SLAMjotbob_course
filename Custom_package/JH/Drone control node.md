@@ -64,6 +64,7 @@ Reference : [Mavros wiki](http://wiki.ros.org/action/fullsearch/mavros?action=fu
 -
 
 ##### local_position
+reference : [standard local position.cpp](http://docs.ros.org/en/lunar/api/mavros/html/local__position_8cpp_source.html)
 - local_position/pose
 - local_position/velocity
 - etc

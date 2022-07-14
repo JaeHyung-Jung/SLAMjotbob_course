@@ -43,5 +43,5 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation courseê³¼ì 
     - Drone simulator + SLAM 
 
 ---
-### <div align="center"> align div Simulation concept </div>
+### <div align="center"> Simulation concept </div>
 ![image](https://user-images.githubusercontent.com/79160507/178926870-19e59e3f-d8c6-47a6-842d-4ec2847d4a92.png)

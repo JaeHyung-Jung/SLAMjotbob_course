@@ -42,3 +42,6 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
     - SLAM(Lom, Lego, Vision, Lidar, ...) 논문 및 코드 분석
     - Drone simulator + SLAM 
 
+---
+### Simulation concept
+![image](https://user-images.githubusercontent.com/79160507/178926870-19e59e3f-d8c6-47a6-842d-4ec2847d4a92.png)

@@ -5,8 +5,9 @@
             a : arming (propeller 
             s : takeoff // height select
             d : set local postition (move) => guided mode
-            x : 원비행
             r : take off 위치로 return(rtl)
+                        x : 원비행(제자리회전X)
+                        setpoint : 특정 x,y,z입력하면 그곳으로 가게
             
             subscirbe, publisher
 

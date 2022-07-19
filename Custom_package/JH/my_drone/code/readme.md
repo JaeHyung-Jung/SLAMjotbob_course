@@ -1,3 +1,11 @@
+### code explanation
+- jhdrone_velocity.cpp : Arming, Takeoff, Move(W.A.S.D), Setposition, RTL, Exit, Get position, Rotate (Recommnded)
+- jh_key_finder : Key finder
+- jhdrone_position : prototype of move using position
+- jhtalker : publish, subscribe test tutorial node
+- jhdrone_rotate_all : Contain all ways to rotate (4position, 8position, with PI, velocity, attitude)
+
+---
 ### Rotate concept
 
 1) Get the current position (x,y,z)

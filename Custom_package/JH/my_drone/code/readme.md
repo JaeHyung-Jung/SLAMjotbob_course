@@ -24,24 +24,21 @@ Reference : https://hub1234.tistory.com/21
 ---
 ### Rotate concept
 #### 1. Rotate with 4 pos
-
 ![image](https://user-images.githubusercontent.com/79160507/180117809-40bdf40f-f836-4e65-9f8a-5b56ff5d055c.png)
 
-5) Rotate with 8 pos
-
+#### 2. Rotate with 8 pos
 ![image](https://user-images.githubusercontent.com/79160507/180117881-5e8fd1b7-bfd9-44b5-b413-6cdf9474d69b.png)
 
-6) Rotate with radian, degree position 
+#### 3. Rotate with radian, degree position 
 ![image](https://user-images.githubusercontent.com/79160507/180117939-e150e6ad-dcb7-4134-9e01-3d36e7070efb.png)
 
-7) Heading to center with quaternion value
+#### 4. Heading to center with quaternion value
 ![image](https://user-images.githubusercontent.com/79160507/180118033-4ec8e297-9216-444f-b388-be0a34bd77f9.png)
 
-8) Rotate with velocity
-
+#### 5. Rotate with velocity
 ![image](https://user-images.githubusercontent.com/79160507/180124700-46b949e3-4552-4bba-b78b-6a97b1f69ec3.png)
 
-9) Rotate with attitude
+#### 6. Rotate with attitude
 
 ----
 

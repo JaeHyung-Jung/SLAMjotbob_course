@@ -11,6 +11,9 @@
 - [X]  Exit Program
 - [X]  Get current position
 
+#### Key description of 'jhdrone' node
+![image](https://user-images.githubusercontent.com/79160507/179486871-c0cf623c-d3f2-4898-8062-f46ea06ebe59.png)
+
 ## Required :
 - ROS
 - Mavros(+Mavlink)

@@ -36,11 +36,13 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
     G : Get current position<br>
 
 - [ ] (7.21 ~ 7.29) Simulation env Setting 
-    - Xavier : Rospkg, Mavros, Ardupilot, Opencv
-    - TF : URDF(depth, stereo, lidar, IMU, gps) + camera module
-    - Joint Link + Joint state publisher
-    - map + baseLink ?? 이거뭐임
-    - Lidar 처음부터 구성
+    URDF(+TF, +Plugin)
+        - Velodyne Lidar 
+        - Depth Camera
+        - Mono Camera
+        - IMU
+        - Gazebo drone model (typhoon)
+        - World map   
     
 - [ ] (7.29 ~ 10.1) 
     - ROS pkg custom create(.cpp)

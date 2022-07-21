@@ -4,8 +4,8 @@
 - [x]  Arming 
 - [x]  Takeoff + altitude select
 - [x]  Set local postition(x,y,z) to move
-- [x]  Return take off 위치로 return => RTL
-- [X]  Rotate : 원비행(제자리회전X)
+- [x]  Return(RTL)
+- [X]  Rotate 
 - [X]  Brake 
 - [X]  Move control (x+, x-, y+, y-)
 - [X]  Exit Program

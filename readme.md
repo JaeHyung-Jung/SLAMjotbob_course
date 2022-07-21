@@ -21,23 +21,27 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
 
 ### * Drone schedule(JH, LD ~ 10.1)	
 - [x] (~7.11) Xavier Setting
-- [ ] (7.11~7.22) ROS custom package create(input image.cpp, manipulation.cpp)
-            
-            a : arming (propeller 
-            s : takeoff // height select
-            d : set local postition (move) => guided mode
-            x : 원비행
-            r : take off 위치로 return(rtl)
+- [X] (7.11~7.21) ROS custom package create(input image.cpp, manipulation.cpp)
+    spacebar : arming (propeller 
+    t : takeoff // height select
+    e : set local postition (move) => guided mode
+    c : rotate
+    r : take off 위치로 return(rtl)
 
-            subscirbe, publisher
-- [ ] (7.22 ~ 8.N) Simulation env Setting 
+    + function
+    Q : Brake 
+    W,A,S,D : Move control
+    F : Exit
+    G : Get current position
+
+- [ ] (7.21 ~ 7.29) Simulation env Setting 
     - Xavier : Rospkg, Mavros, Ardupilot, Opencv
     - TF : URDF(depth, stereo, lidar, IMU, gps) + camera module
     - Joint Link + Joint state publisher
     - map + baseLink ?? 이거뭐임
     - Lidar 처음부터 구성
     
-- [ ] (8.N~10.1) 
+- [ ] (7.29 ~ 10.1) 
     - ROS pkg custom create(.cpp)
     - SLAM(Lom, Lego, Vision, Lidar, ...) 논문 및 코드 분석
     - Drone simulator + SLAM 

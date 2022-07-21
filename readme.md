@@ -22,17 +22,18 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation course과�
 ### * Drone schedule(JH, LD ~ 10.1)	
 - [x] (~7.11) Xavier Setting
 - [X] (7.11~7.21) ROS custom package create(input image.cpp, manipulation.cpp)
-    spacebar : arming (propeller 
-    t : takeoff // height select
-    e : set local postition (move) => guided mode
-    c : rotate
-    r : take off 위치로 return(rtl)
+- basic function
+    spacebar : arming (propeller <br>
+    t : takeoff // height select <br>
+    e : set local postition (move) => guided mode <br>
+    c : rotate <br>
+    r : take off 위치로 return(rtl)<br>
 
-    + function
-    Q : Brake 
-    W,A,S,D : Move control
-    F : Exit
-    G : Get current position
+- additional function<br><br>
+    Q : Brake <br>
+    W,A,S,D : Move control<br>
+    F : Exit<br>
+    G : Get current position<br>
 
 - [ ] (7.21 ~ 7.29) Simulation env Setting 
     - Xavier : Rospkg, Mavros, Ardupilot, Opencv

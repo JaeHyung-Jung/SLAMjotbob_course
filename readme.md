@@ -19,16 +19,16 @@ Xavier setting, Custom pkg create, simulation setting, SLAM analyzation & implem
 
 - [X] (7.11~7.21) ROS custom package create(input image.cpp, manipulation.cpp)
     - basic function<br>
-        spacebar : arming (propeller <br>
-        t : takeoff // height select <br>
-        e : set local postition (move) => guided mode <br>
-        c : rotate <br>
-        r : take off 위치로 return(rtl)<br>
+        Spacebar : arming, set mode to 'GUIDED' <br>
+        T : takeoff // height select <br>
+        E : set local postition (move) => guided mode <br>
+        C : rotate <br>
+        R : take off 위치로 return(rtl)<br>
     - additional function<br>
-        Q : Brake <br>
-        W,A,S,D : Move control<br>
-        F : Exit<br>
-        G : Get current position<br>
+        Q : brake <br>
+        W,A,S,D : move control<br>
+        F : exit<br>
+        G : get current position<br>
 - [ ] (7.21 ~ 7.29) Simulation env Setting URDF(+TF, +Plugin)
     - Velodyne Lidar 
     - Depth Camera

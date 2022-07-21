@@ -23,7 +23,7 @@ Reference : https://hub1234.tistory.com/21
 
 ---
 ### Rotate concept
-4) Rotate with 4 pos
+#### 1. Rotate with 4 pos
 
 ![image](https://user-images.githubusercontent.com/79160507/180117809-40bdf40f-f836-4e65-9f8a-5b56ff5d055c.png)
 

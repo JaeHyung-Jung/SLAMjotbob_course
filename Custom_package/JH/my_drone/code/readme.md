@@ -35,10 +35,11 @@ Reference : https://hub1234.tistory.com/21
 #### 4. Heading to center with quaternion value
 ![image](https://user-images.githubusercontent.com/79160507/180118033-4ec8e297-9216-444f-b388-be0a34bd77f9.png)
 
-#### 5. Rotate with velocity
-![image](https://user-images.githubusercontent.com/79160507/180124700-46b949e3-4552-4bba-b78b-6a97b1f69ec3.png)
+#### 5. Rotate with velocity using Vertical Vector
+![image](https://user-images.githubusercontent.com/79160507/180185908-b15e1067-80dc-4783-8b54-eefd1083abc5.png)
 
-#### 6. Rotate with attitude
+#### 6. Rotate with velocity : Previous vector operation
+![image](https://user-images.githubusercontent.com/79160507/180185989-d639f45d-c991-4a55-a460-684cf3c52303.png)
 
 ----
 

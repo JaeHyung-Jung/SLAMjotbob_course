@@ -29,6 +29,8 @@ Xavier setting, Custom pkg create, simulation setting, SLAM analyzation & implem
         W,A,S,D : move control<br>
         F : exit<br>
         G : get current position<br>
+        ![image](https://user-images.githubusercontent.com/79160507/180189612-c523831b-42c9-4b62-acc2-b13a6fce91c8.png)
+
 - [ ] (7.21 ~ 7.29) Simulation env Setting URDF(+TF, +Plugin)
     - Velodyne Lidar 
     - Depth Camera

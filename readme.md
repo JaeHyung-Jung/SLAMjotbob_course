@@ -22,7 +22,7 @@ Xavier setting, Custom pkg create, SLAM analyzation & implementation courseê³¼ì 
 ### * Drone schedule(JH, LD ~ 10.1)	
 - [x] (~7.11) Xavier Setting
 - [X] (7.11~7.21) ROS custom package create(input image.cpp, manipulation.cpp)
-- basic function
+- basic function<br>
     spacebar : arming (propeller <br>
     t : takeoff // height select <br>
     e : set local postition (move) => guided mode <br>

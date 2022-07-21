@@ -18,8 +18,9 @@
 ![image](https://user-images.githubusercontent.com/79160507/179910247-d1a601b3-e0ca-4334-acc8-ad7df13e6db5.png)
 ![image](https://user-images.githubusercontent.com/79160507/179910228-e999b23b-772b-439e-9ad3-a2f6e5debb78.png)
 
-Reference : [Quaternion Converter](https://www.andre-gaschler.com/rotationconverter/)
-reference : https://hub1234.tistory.com/21
+Reference : [Quaternion Converter](https://www.andre-gaschler.com/rotationconverter/) <br>
+Reference : https://hub1234.tistory.com/21
+
 ---
 ### Rotate concept
 4) Rotate with 4 pos

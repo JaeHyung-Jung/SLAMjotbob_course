@@ -1,6 +1,7 @@
+- [ ] Simulation env Setting URDF(+TF, +Plugin)
     - Velodyne Lidar 
     - Depth Camera
     - Mono Camera
-    - IMU 
+    - IMU
     - Gazebo drone model (typhoon)
     - World map   

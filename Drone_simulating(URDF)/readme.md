@@ -1,1 +1,6 @@
-
+    - Velodyne Lidar 
+    - Depth Camera
+    - Mono Camera
+    - IMU 
+    - Gazebo drone model (typhoon)
+    - World map   
